@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Computer Engineering Student from Egypt with hands-on experience in web development, artificial intelligence and machine learning.</p>
+<p align="left">A passionate computer engineering student from Egypt with hands-on experience in web development, artificial intelligence and machine learning.</p>
 
 ###
 
